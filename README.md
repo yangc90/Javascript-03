@@ -29,3 +29,8 @@ Last prompt is asking if user would like special characters.
 
 
 Once all the prompts have been answered the user will receive their own unique generated password.
+
+
+
+Deployed URL: 
+https://yangc90.github.io/Javascript-03/
